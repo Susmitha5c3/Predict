@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![Susmitha5c3](https://circleci.com/gh/Susmitha5c3/Operationalize-ML-microservie-API.svg?style=svg)](https://circleci.com/gh/Susmitha5c3/Operationalize-ML-microservie-API)
 
 ## Project Overview
 
